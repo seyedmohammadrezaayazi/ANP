@@ -1,0 +1,2 @@
+# ANP
+solve ANP fuzzy 
